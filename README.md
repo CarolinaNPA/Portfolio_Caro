@@ -4,7 +4,8 @@
 <h3 align="center">A Data Scientist from Mexico</h3>
 
 - 🔭 This is my **first portfolio** with my **personal projects** just to improve my knowledge and keep learning :)
-- ⚡ In this portfolio i started with the next projects:
+- ⚡ In this portfolio you can find my projects such as:
+-   **Image Classification using RNA**
 - 
 
 
