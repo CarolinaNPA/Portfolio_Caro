@@ -6,7 +6,7 @@
 - 🔭 This is my **first portfolio** with my **personal projects** just to improve my knowledge and keep learning :)
 - ⚡ In this portfolio you can find my projects such as:
 -   **Image Classification using RNA**
-- 
+-  **Multimodal Conversation analysis and sentiment classification**
 
 
 <p align="left">
