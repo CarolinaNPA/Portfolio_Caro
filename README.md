@@ -7,7 +7,7 @@
 - ⚡ In this portfolio you can find my projects such as:
 -   **Image Classification using RNA**
 -  **Multimodal Conversation analysis and sentiment classification**
-
+- **Binary Classification with a Bank Dataset**
 
 <p align="left">
 </p>
