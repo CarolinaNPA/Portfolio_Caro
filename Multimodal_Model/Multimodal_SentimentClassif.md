@@ -1,12 +1,13 @@
-# **Análisis Multimodal de Emociones en Adultos Mayores**
-Este proyecto implementa un sistema de análisis de emociones utilizando información multimodal proveniente de audio, texto y video. Se emplean embeddings de WavLM para audio, BERT para texto y características faciales extraídas con MediaPipe para video.
+# **Multimodal Emotion Analysis in Older Adults**
 
-El objetivo es detectar y clasificar emociones como felicidad, enojo, disgusto, miedo, tristeza y sorpresa en participantes adultos mayores, utilizando modelos clásicos de aprendizaje automático y técnicas de preprocesamiento especializadas.
+This project implements an emotion analysis system using multimodal information from audio, text, and video. WavLM embeddings are used for audio, BERT for text, and facial features extracted with MediaPipe for video.
 
-Incluye:
+The objective is to detect and classify emotions such as happiness, anger, disgust, fear, sadness, and surprise in older adult participants, using classical machine learning models and specialized preprocessing techniques.
 
-Extracción y combinación de características multimodales.
+Includes:
 
-Entrenamiento y evaluación con modelos clásicos como Bosques Aleatorios y SVM.
+Extraction and combination of multimodal features.
 
-Análisis de palabras clave asociadas a emociones con referencia a estudios previos.
+Training and evaluation with classical models such as Random Forests and SVM.
+
+Keyword analysis associated with emotions, with reference to previous studies.
